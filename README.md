@@ -1,5 +1,5 @@
 # Calendar-Generator
-The program takes the input in the format of YYYY MM or YYYY M and convverts it to:
+The program takes the input in the format of YYYY MM or YYYY M and converts it to:
 
           June 2018
  SUN MON TUE WED THU FRI SAT
