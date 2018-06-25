@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="20" Y="3"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="16" HistoryIndex="15">
+      <Position1>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="10" Column="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="4" Column="22"/>
+      </Position2>
+      <Position3>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="8" Column="33"/>
+      </Position3>
+      <Position4>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="11" Column="30"/>
+      </Position4>
+      <Position5>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="55" Column="2" TopLine="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="7" Column="38"/>
+      </Position6>
+      <Position7>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="48" Column="19" TopLine="8"/>
+      </Position7>
+      <Position8>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="18" Column="25"/>
+      </Position8>
+      <Position9>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="16" Column="61"/>
+      </Position9>
+      <Position10>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="19" Column="26"/>
+      </Position10>
+      <Position11>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="24" Column="22"/>
+      </Position11>
+      <Position12>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="21" Column="7"/>
+      </Position12>
+      <Position13>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="28" Column="47"/>
+      </Position13>
+      <Position14>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="35" Column="41"/>
+      </Position14>
+      <Position15>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="57" Column="50" TopLine="29"/>
+      </Position15>
+      <Position16>
+        <Filename Value="NSinclairKli1.lpr"/>
+        <Caret Line="42" Column="7" TopLine="16"/>
+      </Position16>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
