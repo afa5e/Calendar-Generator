@@ -2,18 +2,36 @@
 <CONFIG>
   <ProjectSession>
     <PathDelim Value="\"/>
-    <Version Value="10"/>
+    <Version Value="9"/>
     <BuildModes Active="Default"/>
     <Units Count="1">
       <Unit0>
         <Filename Value="NSinclairKli2.pas"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <CursorPos X="39" Y="7"/>
-        <UsageCount Value="66"/>
+        <TopLine Value="280"/>
+        <CursorPos X="26" Y="318"/>
+        <UsageCount Value="71"/>
         <Loaded Value="True"/>
       </Unit0>
     </Units>
-    <JumpHistory HistoryIndex="-1"/>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="NSinclairKli2.pas"/>
+        <Caret Line="958" Column="61" TopLine="935"/>
+      </Position1>
+      <Position2>
+        <Filename Value="NSinclairKli2.pas"/>
+        <Caret Line="961" Column="32" TopLine="938"/>
+      </Position2>
+      <Position3>
+        <Filename Value="NSinclairKli2.pas"/>
+        <Caret Line="9" Column="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="NSinclairKli2.pas"/>
+        <Caret Line="311" Column="33" TopLine="264"/>
+      </Position4>
+    </JumpHistory>
   </ProjectSession>
 </CONFIG>
